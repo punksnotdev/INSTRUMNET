@@ -1,9 +1,7 @@
 # INSTRUMNET
 online platform for live-coded music performances
 
-- online communities
-- event-based
-- 
+Live coding is an artistic practice driven by online and local communities, and sometimes happening inside an event-based social practice.
 
 ### Problems with live-coding
 
